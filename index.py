@@ -21,3 +21,7 @@ elif gustavoEntrouNaAula == True and laraTomouSorveteHoje == False:
     print("Gustavo entrou na aula, isso eu sei!!!")
 else:
     print("Lara tomou sorvete alguém fez aula ou tomeu sorvete")
+
+    kjebcjbaljcbsjpbapjbdfpjabjpfde
+    asbfljasbfjlabljfajlbvfjlabsljfa
+    askjfvbkjavbfkbakjfvahkv
