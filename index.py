@@ -1,7 +1,9 @@
 # gustavoEntrouNaAula = False
 
 # um sinal de igual: atribuindo valor a variavel 
-# dois sinais de iogual: comparação
+# dois sinais de iogual: comparaçãooaehljbsqalj
+
+
 
 # # se
 # if gustavoEntrouNaAula == False:
